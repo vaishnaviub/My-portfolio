@@ -1,0 +1,26 @@
+[
+    {
+      "role": "Google Cybersecurity professional certificate",
+      "organisation": "Google",
+      "startDate": "March, 2025",
+      "endDate": "Present",
+      "experiences": ["Gained Hands-On Practice", "Security policies, Risk assessment"],
+      "imageSrc": "history/google.png"
+    },
+    {
+      "role": "Introduction to cyber security, Python Essential 1",
+      "organisation": "Mirosoft",
+      "startDate": "Sep, 2021",
+      "endDate": "Oct, 2024",
+      "experiences": ["Learnt about real world cyber serutiy incidents", "Gained insights about python Fundamentals"],
+      "imageSrc": "history/cisco.png"
+    },
+    {
+      "role": "Fundamentals of Information Security",
+      "organisation": "Infosys Springboard",
+      "startDate": "Aug, 2021",
+      "endDate": "Oct, 2024",
+      "experiences": ["Information security practices essetials"],
+      "imageSrc": "history/infosys.png"
+    }
+  ]
