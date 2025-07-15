@@ -1,0 +1,30 @@
+[
+    {
+      "title": "HTML",
+      "imageSrc": "/assets/skills/html.png"
+    },
+    {
+      "title": "CSS",
+      "imageSrc": "/assets/skills/css.png"
+    },
+    {
+      "title": "React",
+      "imageSrc": "/assets/skills/react.png"
+    },
+    {
+      "title": "Node",
+      "imageSrc": "/assets/skills/node.png"
+    },
+    {
+      "title": "Python",
+      "imageSrc": "/assets/skills/python-logo.png"
+    },
+    {
+      "title": "MySql",
+      "imageSrc": "/assets/skills/mysql.png"
+    },
+    {
+      "title": "Flask",
+      "imageSrc": "/assets/skills/flask-logo.png"
+    }
+  ]

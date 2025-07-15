@@ -1,0 +1,42 @@
+[
+    {
+      "title": "Travel-Advisor",
+      "imageSrc": "/assets/projects/travel-advisor.png",
+      "description": "A web application that helps users find restaurants, hotels, and attractions based on their location.",
+      "skills": ["Javascript", "HTML", "Node.js"],
+      "demo": "https://jet-setgo.netlify.app/",
+      "source": "https://github.com/vaishnaviub/Travel-Advisor"
+    },
+    {
+      "title": "Phishing Simulation Platform",
+      "imageSrc": "/assets/projects/PhishingSimulationPlatform.jpg",
+      "description": "Phishing simulation tool that demonstrates how phishing attacks happens in a controlled environment.",
+      "skills": [ "HTML", "CSS", "Flask", "Python"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/vaishnaviub/Phishing-Simulator"
+    },
+    {
+      "title": "AvaxNFTS",
+      "imageSrc": "/assets/projects/AvaxNFTs.png",
+      "description": "A Decentralized NFT card game where players mint cards and battle in real-time on the Avalanche network.",
+      "skills": [ "JavaScript", "Solidity", "CSS", "HTML"],
+      "demo": "https://avax-nfts.netlify.app",
+      "source": "https://github.com/vaishnaviub/AvaxNFTs"
+    },
+    {
+      "title": "SpyGuard",
+      "imageSrc": "/assets/projects/spyguard.png",
+      "description": "A cybersecurity awareness quiz card game to educate users about security threats interactively.",
+      "skills": ["Javascript", "HTML", "CSS", "React"],
+      "demo": "https://spyguard.netlify.app/",
+      "source": "https://github.com/vaishnaviub/SpyGuard"
+    },
+    {
+      "title": "My-Portfolio",
+      "imageSrc": "/assets/projects/portfolio.png",
+      "description": "This is a personal portfolio website showcasing skills, experience, certificates and projects.",
+      "skills": [ "HTML", "CSS", "React"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/vaishnaviub"
+    }
+  ]
